@@ -1,1 +1,1 @@
-password=hwq*abeHCF!cwY-yow
+password=env.variable
